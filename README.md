@@ -1,5 +1,5 @@
 # Customer feedback platform with frill
-This project is about creating a customer feedback platform where users can log in using Google OAuth and provide feedback on various aspects of a product. The feedback has been grouped in the categories such as Product Features, Product Pricing, and Product Usability.They can rate all features from 1 to 10 and all accumulated data will be shown on dashboard. **Frill.co** has been used to collect and manage the feedback data.
+This project is about creating a customer feedback platform where users can log in using Google OAuth and provide feedback on various aspects of a product. The feedback has been grouped in the categories such as Product Features, Product Pricing, and Product Usability. They can rate all aspects of a product from 1 to 10 and all accumulated data will be shown on dashboard. **Frill.co** has been used to collect and manage the feedback data.
 
 ## Folders
 
