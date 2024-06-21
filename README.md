@@ -9,7 +9,6 @@ This project is about creating a customer feedback platform where users can log 
 
 ## Procedure to setup
 
-**Note: Only `deepika.agarwal@tensorgo.com` can login to the app.**
 
 1. Download both the folders.
 
@@ -23,14 +22,14 @@ This project is about creating a customer feedback platform where users can log 
 
 <img width="957" alt="image" src="https://github.com/Abhishekkumar200/Customer-feedback-platform-with-frill/assets/84954320/0a88e1b8-99fd-4ac3-ac51-cca70c31ee6f">
 
-7. After the downloading has completed. Type ```nodemon index.js``` in the terminal of **backend** window.
+7. After the downloading has completed. Type ```node index.js``` or you can type ```nodemon index.js``` (if **nodemon** is installed in your computer) in the terminal of **backend** window and then press Enter.
 
 
-9. Once the **backend** start running. Type ```npm start``` in the **frontend** window.
+9. Once the **backend** start running. Type ```npm start``` in the **frontend** window and then press Enter.
 
 <img width="929" alt="image" src="https://github.com/Abhishekkumar200/Customer-feedback-platform-with-frill/assets/84954320/86482b1d-da23-4a2b-8bb2-cce0d5a5e524">
 
-11. Now the app has started. You can login using your email id. Since, Google OAuth is being used for testing purpose so, it allows only limited users to login. Only email id `deepika.agarwal@tensorgo.com` can login to the app.
+11. Now the app has started. You can login using your email id.
 
 ![image](https://github.com/Abhishekkumar200/Customer-feedback-platform-with-frill/assets/84954320/7d8bd4f1-cf72-45c9-97e3-26ad4999c2f6)
 
