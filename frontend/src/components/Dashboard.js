@@ -66,8 +66,8 @@ const Dashboard = () => {
                 :
                 feedbacks.length === 0
                     ?
-                    (<div className='container mx-3 my-3' style={{ color: "red" }}>
-                        'No Feedback available.'
+                    (<div className='d-flex justify-content-center align-items-center my-3' style={{ color: "red" }}>
+                        <h4>No Feedback available.</h4>
                     </div>)
                     :
                     (<>
